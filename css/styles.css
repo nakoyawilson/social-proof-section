@@ -205,6 +205,8 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: auto;
+    margin-bottom: 3rem;
   }
 
   .testimonial {
