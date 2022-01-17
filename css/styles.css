@@ -137,6 +137,10 @@ main {
   line-height: 1.4;
 }
 
+.colton {
+  align-self: flex-start;
+}
+
 .irene {
   align-self: center;
 }
